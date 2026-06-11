@@ -213,7 +213,7 @@ export const nationalparkCamping: CampsiteConfig = {
     telHref: "tel:+4348242048",
     mail: "nationalpark-camping@heiligenblut.at",
     adresse: "Hadergasse 11 · 9844 Heiligenblut am Großglockner · Kärnten",
-    coords: { lat: 47.0371757, lng: 12.8384581 },
+    coords: { lat: 47.037252, lng: 12.839424 },
   },
 
   languages: ["DE"],
